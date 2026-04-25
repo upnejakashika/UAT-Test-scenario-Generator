@@ -1,0 +1,6 @@
+{
+  "name": "AI Test Agent",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "backend",
+  "workspaceFolder": "/app"
+}
